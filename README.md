@@ -1,4 +1,4 @@
-# Fidible Discord Bot
+# Simple Autorole Discord Bot
 
 1. Features
     * Auto addition of roles
