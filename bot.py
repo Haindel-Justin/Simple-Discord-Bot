@@ -24,4 +24,4 @@ async def on_member_join(member):
             default_role = role
     await member.add_roles(default_role)
 
-client.run('NjA4NDIwODM0NjgzMzg3OTQ0.XUocEA.lbFEGHgB08aWWLTaKGFv0hR7KCY')
+client.run('KEY')
